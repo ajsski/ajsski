@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajsski
-- 👀 I’m interested in learning to read and write code
-- 🌱 I’m currently learning Bootstrap, JavaScript, Dreamweaver 
+- 👀 I am learning to read and write code
+- 🌱 I have some self educated framework experience with Bootstrap, PHP, node.JS, MySQL and MongoDB. 
 
 <!---
 ajsski/ajsski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
