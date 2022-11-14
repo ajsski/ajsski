@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajsski
-- 👀 I am learning to read and write code
+- 👀 I am looking for work.
 - 🌱 I have some self educated framework experience with Bootstrap, PHP, node.JS, MySQL and MongoDB. 
 
 <!---
